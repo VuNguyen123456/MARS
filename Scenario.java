@@ -1,9 +1,3 @@
-//TO DO: Nothing required here.
-
-//******************************************************
-//*******  DO NOT EDIT ANYTHING BELOW THIS LINE  *******
-//******************************************************
-
 /**
  *  The abstract parent class of all scenarios
  *  for the simulator.
