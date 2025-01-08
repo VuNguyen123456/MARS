@@ -1,10 +1,3 @@
-//TO DO: Finish this!
-
-// You may NOT add any arrays as a member variable in this class
-
-// You MAY add an import to java.util.Comparable if
-// you are making the Person class Comparable. 
-// No other imports are allowed.
 /**
  * This is Scenario 2 of the simulation.
  * @author Vu Nguyen
