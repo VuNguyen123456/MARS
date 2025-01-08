@@ -1,5 +1,3 @@
-//TO DO: Add JavaDocs
-
 //********************************************************
 //*******  DO NOT EDIT ANYTHING BELOW THIS LINE    *******
 //*******        EXCEPT TO ADD JAVADOCS            *******
