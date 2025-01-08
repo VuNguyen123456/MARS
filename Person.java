@@ -1,11 +1,3 @@
-//********************************************************
-//*******  DO NOT EDIT ANYTHING BELOW THIS LINE    *******
-//*******        EXCEPT TO ADD JAVADOCS            *******
-//*******                                          *******
-//*******   YOU MAY CHANGE THE toString() method   *******
-//*******     OR IMPLEMENT Comparable<Person>      *******
-//*******   (IF YOU WOULD FIND HELPFUL TO DO SO)   *******
-//********************************************************
 /**
  * This class is for person in line.
  * @author Vu Nguyen
