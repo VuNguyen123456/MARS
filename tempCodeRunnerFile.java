@@ -1,4 +1,3 @@
-//TO DO: Finish this!
 /**
  * This is a Line class.
  * @author Vu Nguyen
