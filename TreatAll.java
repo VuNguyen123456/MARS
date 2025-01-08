@@ -1,4 +1,3 @@
-//TO DO: Finish this!
 /**
  * This is Scenario 1 of the simulation.
  * @author Vu Nguyen
